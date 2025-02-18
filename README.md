@@ -12,11 +12,6 @@ This project implements an extractive summarization system tailored for legal do
 - [Models Used](#models-used)
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [References](#references)
-- [Authors](#authors)
 
 ## Project Details
 
